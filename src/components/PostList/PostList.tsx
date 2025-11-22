@@ -1,6 +1,5 @@
 import { Post } from '../../types/Post';
 import { PostInfo } from '../PostInfo';
-import './PostList.scss';
 
 interface PostListProps {
   posts: Post[];
